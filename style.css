@@ -1,0 +1,40 @@
+h1 {
+    color: rgb(139, 15, 15);
+  }
+  h2 {
+    color: rgba(144, 0, 255, 0.451);
+  }
+  body {
+    font-family: "Herr Von Muellerhoff", cursive;
+    font-size: 32px;
+    background-color: rgb(5, 133, 112);
+    color: rgb(0, 255, 221);
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+
+  }
+  img {
+    border-radius: 60px;
+  }
+  
